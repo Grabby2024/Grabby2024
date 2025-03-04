@@ -1,5 +1,3 @@
-![Header Image](https://example.com/header.png)
-
 # Hi there, I'm Grabby2024! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in web development, open-source contributions, and exploring new technologies. Here's a little bit about me:
