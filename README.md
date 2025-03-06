@@ -5,12 +5,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 - 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
 - 🔭 I’m working on several exciting projects, including a personal portfolio website and an open-source API for developers.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 🤔 I’m looking for help with improving my skills in machine learning and data science.
+- 🤔 I’m looking for help with improving my skills in data science.
 - 💬 Ask me about web development, JavaScript, or anything tech-related!
 - 📫 How to reach me: [Email](mailto:grabby2024@example.com) or [LinkedIn](https://www.linkedin.com/in/grabby2024)
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love hiking and exploring nature trails during my free time.
-
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
