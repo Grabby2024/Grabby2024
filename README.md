@@ -1,33 +1,39 @@
-# Hi there, I'm Grabby2024! 👋
+# Grabby2024
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, open-source contributions, and exploring new technologies. Here's a little bit about me:
+Full-Stack Developer specializing in modern web technologies and open-source development.
 
-- 🌱 I’m currently learning advanced JavaScript frameworks and cloud computing.
-- 🔭 I’m working on several exciting projects, including a personal portfolio website and an open-source API for developers.
-- 👯 I’m looking to collaborate on open-source projects and innovative web applications.
-- 🤔 I’m looking for help with improving my skills in data science.
-- 💬 Ask me about web development, JavaScript, or anything tech-related!
-- 📫 How to reach me: [Email](mailto:gabriell.leornas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/grabby2024)
-## 🛠️ Languages and Tools
+## About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+I'm a passionate developer focused on building scalable web applications and contributing to the open-source community. Currently expanding my expertise in advanced JavaScript frameworks and cloud computing while working on innovative projects that push the boundaries of web development.
 
-## 🗄️ Databases
+**Current Focus:**
+- Developing a comprehensive personal portfolio showcasing my technical capabilities
+- Building an open-source API designed to streamline developer workflows
+- Advancing proficiency in data science methodologies and tools
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![XAMPP](https://img.shields.io/badge/-XAMPP-333333?style=flat&logo=xampp)
+**Collaboration Interests:**
+- Open-source projects with meaningful impact
+- Innovative web applications solving real-world problems
+- Developer tools and productivity enhancements
 
-## 📫 Get in Touch
+## Technical Stack
 
-Feel free to reach out to me if you have any questions or if you just want to connect!
+**Languages:**
+JavaScript • C • C# • Java
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/grabby2024)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:grabby2024@example.com)
+**Frameworks & Libraries:**
+React • React Native
 
-Thanks for visiting my profile!
+**Databases:**
+PostgreSQL • MongoDB • XAMPP
+
+## Contact
+
+I'm always open to discussing new projects, technical challenges, or collaboration opportunities.
+
+**Email:** [gabriell.leornas@gmail.com](mailto:gabriell.leornas@gmail.com)  
+**LinkedIn:** [linkedin.com/in/grabby2024](https://www.linkedin.com/in/grabby2024)
+
+---
+
+*Open to opportunities and collaborations in web development and software engineering.*
